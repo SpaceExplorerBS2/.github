@@ -1,7 +1,16 @@
 # Space Explorer
 
+## Frontend
+
+![status_frontend](https://up.programar.io/api/badge/45/status)
 ![uptime_frontend](https://up.programar.io/api/badge/45/uptime)
+![ping_frontend](https://up.programar.io/api/badge/45/ping)
+
+## Scoreboard
+
+![status_scoreboard_frontend](https://up.programar.io/api/badge/43/status)
 ![uptime_scoreboard_frontend](https://up.programar.io/api/badge/43/uptime)
+![ping_scoreboard_frontend](https://up.programar.io/api/badge/43/ping)
 
 ## What is this organisation?
 
