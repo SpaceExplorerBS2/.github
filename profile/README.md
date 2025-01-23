@@ -2,10 +2,10 @@
 
 | | Status        | Uptime        | Ping |
 |-| ------------- | ------------- | ---- |
-| Frontend | ![status_frontend](https://up.programar.io/api/badge/45/status) | ![uptime_frontend](https://up.programar.io/api/badge/45/uptime) | ![ping_frontend](https://up.programar.io/api/badge/45/ping) |
-| Backend | ![status_frontend](https://up.programar.io/api/badge/46/status) | ![uptime_frontend](https://up.programar.io/api/badge/46/uptime) | ![ping_frontend](https://up.programar.io/api/badge/46/ping) |
-| Scoreboard (frontend) | ![status_frontend](https://up.programar.io/api/badge/43/status) | ![uptime_frontend](https://up.programar.io/api/badge/43/uptime) | ![ping_frontend](https://up.programar.io/api/badge/43/ping) |
-| Scoreboard (backend) | ![status_frontend](https://up.programar.io/api/badge/44/status?upLabel=Up) | ![uptime_frontend](https://up.programar.io/api/badge/44/uptime) | ![ping_frontend](https://up.programar.io/api/badge/44/ping) |
+| Frontend | ![status_frontend](https://up.programar.io/api/badge/45/status?cache=no) | ![uptime_frontend](https://up.programar.io/api/badge/45/uptime?cache=no) | ![ping_frontend](https://up.programar.io/api/badge/45/ping?cache=no) |
+| Backend | ![status_frontend](https://up.programar.io/api/badge/46/status?cache=no) | ![uptime_frontend](https://up.programar.io/api/badge/46/uptime?cache=no) | ![ping_frontend](https://up.programar.io/api/badge/46/ping?cache=no) |
+| Scoreboard (frontend) | ![status_frontend](https://up.programar.io/api/badge/43/status?cache=no) | ![uptime_frontend](https://up.programar.io/api/badge/43/uptime?cache=no) | ![ping_frontend](https://up.programar.io/api/badge/43/ping?cache=no) |
+| Scoreboard (backend) | ![status_frontend](https://up.programar.io/api/badge/44/status?cache=no) | ![uptime_frontend](https://up.programar.io/api/badge/44/uptime?cache=no) | ![ping_frontend](https://up.programar.io/api/badge/44/ping?cache=no) |
 
 
 ## What is this organisation?
