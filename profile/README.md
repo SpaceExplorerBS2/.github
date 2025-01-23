@@ -5,6 +5,7 @@
 | Frontend | ![status_frontend](https://up.programar.io/api/badge/45/status) | ![uptime_frontend](https://up.programar.io/api/badge/45/uptime) | ![ping_frontend](https://up.programar.io/api/badge/45/ping) |
 | Backend | ![status_frontend](https://up.programar.io/api/badge/46/status) | ![uptime_frontend](https://up.programar.io/api/badge/46/uptime) | ![ping_frontend](https://up.programar.io/api/badge/46/ping) |
 | Scoreboard (frontend) | ![status_frontend](https://up.programar.io/api/badge/43/status) | ![uptime_frontend](https://up.programar.io/api/badge/43/uptime) | ![ping_frontend](https://up.programar.io/api/badge/43/ping) |
+| Scoreboard (backend) | ![status_frontend](https://up.programar.io/api/badge/44/status) | ![uptime_frontend](https://up.programar.io/api/badge/44/uptime) | ![ping_frontend](https://up.programar.io/api/badge/44/ping) |
 
 
 ## What is this organisation?
