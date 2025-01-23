@@ -1,5 +1,8 @@
 # Space Explorer
 
+![uptime_frontend](https://up.programar.io/api/badge/45/uptime)
+![uptime_scoreboard_frontend](https://up.programar.io/api/badge/43/uptime)
+
 ## What is this organisation?
 
 We are students and this is a project our class developed. It is a short, fun game about space exploration.
